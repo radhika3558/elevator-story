@@ -1,6 +1,6 @@
 # elevator-story
  
-1. `elevator-regression.ipynb` is Radhika's regression with census variables. `eda.ipynb` is Sabina's regression with foil data.
+1. `elevator-regression.ipynb` is Radhika's regression with census variables. `foil_data` > `eda.iphnb` is Sabina's regression with foil data.
 
 2. To run `eda.iphnb` you will need to download `2023_subway_censusvar_multire.csv`
 
