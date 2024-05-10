@@ -15,7 +15,7 @@ Jupyter notebooks used for data preprocessing and analysis are available in the 
 
 #### Step 1: Connect to Census to add census variables
 
-We connected Elevator availability data to the US census using a Census API key. We then fuzzy match the station address to the latitudinal and longitudinal values. These values were then used to merge with census data on GEOIDs.
+We connected Elevator availability data to the US census using a Census API key. We then fuzzy matched the station address to the latitudinal and longitudinal values. These values were then used to merge with census data on GEOIDs.
 
 Using this merge, we were able to bring in median income data, population data, and the disabled population at the census tract of the station in question.
 
