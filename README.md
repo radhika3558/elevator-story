@@ -13,17 +13,17 @@ Jupyter notebooks used for data preprocessing and analysis are available in the 
 
 ## Part 1: Regression modeling for elevator outages
 
-#### **Step 1: Connect to Census to add census variables**
+#### Step 1: Connect to Census to add census variables
 
 We connected Elevator availability data to the US census using a Census API key. We then fuzzy matched the station address to the latitudinal and longitudinal values. These values were then used to merge with census data on GEOIDs.
 
 Using this merge, we were able to bring in median income data, population data, and the disabled population at the census tract of the station in question.
 
-#### **Step 2: Add other requires variables: station ridership, number of routes at station level, and whether a station is a major interchange.**
+#### Step 2: Add other requires variables: station ridership, number of routes at station level, and whether a station is a major interchange.
 
 We also added other variables from publicly available data. For example, we added the ridership data from [MTA](https://new.mta.info/agency/new-york-city-transit/subway-bus-ridership-2022), and route data, and determined if the station was a major interchange (number of subway lines > 2).
 
-#### **Step 3: Run regression models** 
+#### Step 3: Run regression models
 
 We used multivariable regression models to see whether the variables we added were determinant of the number of elevator outages at the station and the elevator level.
 
@@ -33,7 +33,7 @@ The `elevator outage` folder contains `notebook.ipynb`, which uses data from the
 
 ## Part 2: T-test for elevator downtime
 
-#### **Step 1: Cleaning, Geocoding & Merging with census data**
+### Step 1: Cleaning, Geocoding & Merging with census data
 
 The data we received from our FOIL request contains all maintenance activity automatically captured by LifeNet systems and manually recorded by control desk staff in E&E’s Elevator and Escalator Reporting and Maintenance System (EERMS) of the MTA. The dataset came back large and messy, so we thought it would be reasonable to explain our data cleaning process.
 
