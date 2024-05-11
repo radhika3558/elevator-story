@@ -5,7 +5,7 @@ This repository contains code to reproduce the findings featured in our story on
 
 Our methodology is described in at the bottom of the [article]. (link)
 
-Our analysis consists of two parts. We analyzed publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) ([Part I](## Part 1: Regression modeling for elevator outages)) and Liftnet data received via FOIA ([Part II](#part-2-t-test-for-elevator-downtime)). 
+Our analysis consists of two parts. We analyzed publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) ([Part I](#part-1-regression-modeling-for-elevator-outages)) and Liftnet data received via FOIA ([Part II](#part-2-t-test-for-elevator-downtime)). 
 
 Data that we collected and analyzed is in the `data` folders inside each of the folders 
 
