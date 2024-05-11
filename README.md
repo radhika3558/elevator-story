@@ -3,7 +3,7 @@
 
 This repository contains code to reproduce the findings featured in our story on subway elevator outages in New York City.
 
-Our methodology is described in at the bottom of the article. [link]
+Our methodology is described in at the bottom of the [article]. (link)
 
 We analyzed publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) and Liftnet data (received via FOIA).
 
@@ -27,7 +27,7 @@ We also added other variables from publicly available data. For example, we adde
 
 We used multivariable regression models to see whether the variables we added were determinant of the number of elevator outages at the station and the elevator level.
 
-## Running the notebooks
+### Running the notebooks
 
 The `elevator outage` folder contains `notebook.ipynb`, which uses data from the following path `data` > `regression` > `elevator_final.csv` (OR) `df_grouped1.csv`
 
