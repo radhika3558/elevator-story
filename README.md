@@ -7,7 +7,7 @@ Our methodology is described in at the bottom of the [article]. (link)
 
 Data that we collected and analyzed is in the `data` folders inside each of the folders. 
 
-Jupyter notebooks used for data preprocessing and analysis are available in the `notebook` of each folder. Descriptions for each notebook are outlined in the Notebooks section below.
+Jupyter notebooks used for data preprocessing and analysis are available in the `notebook` of each folder. Descriptions for each notebook are outlined in the [Running the notebooks](#running-the-notebooks).
 
 Our analysis consists of two parts. We analyzed: 
 * Publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) ([Part I](#part-1-regression-modeling-for-elevator-outages))  
