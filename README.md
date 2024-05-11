@@ -5,11 +5,11 @@ This repository contains code to reproduce the findings featured in our story on
 
 Our methodology is described in at the bottom of the [article]. (link)
 
-We analyzed publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) and Liftnet data (received via FOIA).
+Our analysis consists of two parts. We analyzed publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) ([Part I](## Part 1: Regression modeling for elevator outages)) and Liftnet data received via FOIA ([Part II](#part-2-t-test-for-elevator-downtime)). 
 
-Data that we collected and analyzed is in the data folders inside each of the folders for Part I and Part II.
+Data that we collected and analyzed is in the `data` folders inside each of the folders 
 
-Jupyter notebooks used for data preprocessing and analysis are available in the notebook of each folder. Descriptions for each notebook are outlined in the Notebooks section below.
+Jupyter notebooks used for data preprocessing and analysis are available in the `notebook` of each folder. Descriptions for each notebook are outlined in the Notebooks section below.
 
 ## Part 1: Regression modeling for elevator outages
 
@@ -33,24 +33,8 @@ The `elevator outage` folder contains `notebook.ipynb`, which uses data from the
 
 ## Part 2: T-test for elevator downtime
 
-### Step 1: Cleaning, Geocoding & Merging with census data
-
-The data we received from our FOIL request contains all maintenance activity automatically captured by LifeNet systems and manually recorded by control desk staff in E&E’s Elevator and Escalator Reporting and Maintenance System (EERMS) of the MTA. The dataset came back large and messy, so we thought it would be reasonable to explain our data cleaning process.
-
-#### Cleaning data
-We first filtered the dataset down to elevator maintenance activity only, then extracted the station MRNs for later data matching. During the process of extraction, we were unable to capture 147 rows of data, which pertain to maintenance activity at either New Utrecht Av Station (MRN: 73) or Dyckman St Quarters Station (MRN: TBD). This discrepancy occurs because elevators at New Utrecht Av Station did not specify their locations within the station and Dyckman St Quarters Station did not have a Station MRN. 
-
-*Please refer to `2023_missing_station_mrn.csv` for missing values in this process.*
-
-#### Geocoding 
-We then filtered down our data according to this dataset of all MTA subway stations retrieved from the New York State Open Data. In this dataset, the Station ID corresponds to the Station MRN in our FOIL data, which we later used for merging to geocode our FOIL data.
-
-*Please refer to `cleaning-geocode.ipynb` for our cleaning process.*
-
-#### Merging with census data
-Finally, we merged the mega dataset with census data for further analysis. 
-
-*For codes and notebook of this process, please refer to `merge-with-census.ipynb`*
+```
 
 
-To run `eda.iphnb` you will need to download `2023_subway_censusvar_multire.csv`, which is accessible [here](https://drive.google.com/drive/folders/1uZcIPkzq6sTAGxfVR--rEgShWm6Izdwq?usp=drive_link) in the `processed_data` folder.
+
+
