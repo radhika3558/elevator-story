@@ -10,8 +10,8 @@ Data that we collected and analyzed is in the `data` folders inside each of the 
 Jupyter notebooks used for data preprocessing and analysis are available in the `notebook` of each folder. Descriptions for each notebook are outlined in the [Running the notebooks](#running-the-notebooks).
 
 Our analysis consists of two parts. We analyzed: 
-* Publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) > [Part I: Regression modeling for elevator outages](#part-1-regression-modeling-for-elevator-outages)  
-* Liftnet data received via FOIA > [Part II: T-test for elevator downtime](#part-2-t-test-for-elevator-downtime). 
+* Publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) &rarr; [Part I: Regression modeling for elevator outages](#part-1-regression-modeling-for-elevator-outages)  
+* Liftnet data received via FOIA &rarr; [Part II: T-test for elevator downtime](#part-2-t-test-for-elevator-downtime). 
 
 
 ## Part 1: Regression modeling for elevator outages
