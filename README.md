@@ -40,17 +40,17 @@ The data we received from our FOIL request contains all maintenance activity aut
 #### Cleaning data
 We first filtered the dataset down to elevator maintenance activity only, then extracted the station MRNs for later data matching. During the process of extraction, we were unable to capture 147 rows of data, which pertain to maintenance activity at either New Utrecht Av Station (MRN: 73) or Dyckman St Quarters Station (MRN: TBD). This discrepancy occurs because elevators at New Utrecht Av Station did not specify their locations within the station and Dyckman St Quarters Station did not have a Station MRN. 
 
-Please refer to `2023_missing_station_mrn.csv` for missing values in this process.
+*Please refer to `2023_missing_station_mrn.csv` for missing values in this process.*
 
 #### Geocoding 
 We then filtered down our data according to this dataset of all MTA subway stations retrieved from the New York State Open Data. In this dataset, the Station ID corresponds to the Station MRN in our FOIL data, which we later used for merging to geocode our FOIL data.
 
-Please refer to `cleaning-geocode.ipynb` for our cleaning process.
+*Please refer to `cleaning-geocode.ipynb` for our cleaning process.*
 
 #### Merging with census data
 Finally, we merged the mega dataset with census data for further analysis. 
 
-For codes and notebook of this process, please refer to `merge-with-census.ipynb`
+*For codes and notebook of this process, please refer to `merge-with-census.ipynb`*
 
 
 To run `eda.iphnb` you will need to download `2023_subway_censusvar_multire.csv`, which is accessible [here](https://drive.google.com/drive/folders/1uZcIPkzq6sTAGxfVR--rEgShWm6Izdwq?usp=drive_link) in the `processed_data` folder.
