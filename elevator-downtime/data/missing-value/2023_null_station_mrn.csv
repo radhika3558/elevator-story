@@ -1,0 +1,367 @@
+Out of Service Date,Common Name,Outage,Equipment Description,Executive Comment,Outage Code,Status,External Source Note,Reason Shown to Public,Reason Shown to Public Description,Estimated Return to Service Date,Actual Return to Service Date,Reference,Source,Service Code,Date Created,Status Code,Outage Comments,Station MRN
+2023-01-04 07:23:00,EL740,792397,ELE: EL740 - 73  - New Utrecht - Location TBD,,INS,Closed,,INSPECTION,Inspection,2023-01-04 16:00:00,2023-01-04 11:45:00,,Phone,EE-MANOUT,2023-01-04 07:24:00,CL,"***This elevator is out of service for CAT1 Inspection***
+
+
+E&EM Stewart and E&EH Crawford taking unit OOS for ASME CAT1 inspection. WO#5408464 (EAM) E&EH Crawford: ASME CAT1 inspection completed, machine passed inspection. Test ran RTS @1145 ",
+2023-01-04 11:45:00,EL741,792554,ELE: EL741 - 73  - New Utrecht - Location TBD,,INS,Closed,,INSPECTION,Inspection,2023-01-04 17:00:00,2023-01-04 13:15:00,,Phone,EE-MANOUT,2023-01-04 11:48:00,CL,"***This unit was removed from service by E&E personnel to perform inspection***
+WO 5408465
+E&EM Stewart and E&EH Crawford here for ASME CAT1 inspection.
+ E&EH Crawford report:  ASME CAT1 inspection completed, machine passed inspection. Test ran RTS @1315.  ",
+2023-01-05 11:20:00,EL739,792984,ELE: EL739 - 73  - New Utrecht - Location TBD,,INS,Closed,,INSPECTION,Inspection,2023-01-05 17:00:00,2023-01-05 13:20:00,,Phone,EE-MANOUT,2023-01-05 11:23:00,CL,"***This unit was removed from service by E&E personnel to perform inspection***
+WO5408463
+E&EM Stewart and E&EH Crawford here for ASME CAT1 inspection.
+ (EAM) E&EM Crawford: ASME CAT1 inspection completed, machine passed inspection. Test ran RTS @1320 ",
+2023-01-11 08:37:00,EL739,795146,ELE: EL739 - 73  - New Utrecht - Location TBD,,ENV,Closed,Door Opening/ F. Door Open Limit failure,REPAIR,Repair,2023-01-11 17:00:00,2023-01-11 11:30:00,ST230111.txt - 1256,External Monitoring System,EE-LNOUT,2023-01-11 08:44:00,CL,,
+2023-01-14 09:10:00,EL156,796470,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-01-14 18:00:00,2023-01-14 12:20:00,,Phone,EE-MANOUT,2023-01-14 09:13:00,CL,"***This elevator is out of service for preventive maintenance***
+
+
+
+
+
+E&EMs Siu/Diaz taking unit OOS for bimonthly PM. WO#5407838 bimonthly PM. completed BIS ",
+2023-01-16 11:13:00,EL741,797055,ELE: EL741 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-01-16 16:00:00,2023-01-16 12:35:00,,Phone,EE-MANOUT,2023-01-16 11:14:00,CL,,
+2023-01-18 11:14:00,EL739,797994,ELE: EL739 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-01-18 16:00:00,2023-01-18 12:20:00,,Phone,EE-MANOUT,2023-01-18 11:14:00,CL,"***This elevator is out of service to provide A&P to contractors (Mid American Elevator) to label the power unit***
+
+
+E&EM Urquiola and E&EH Garita removed the elevator from service to provide A&P to contractors (Mid American Elevator) to label the power unit. WO # 4934232 E&EM Urquiola and E&EH Garita provided access and protection for contractors to label wiring in the power unit. Machine BIS at 12:20am ",
+2023-01-18 12:35:00,EL741,798023,ELE: EL741 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-01-18 21:00:00,2023-01-18 14:00:00,,Phone,EE-MANOUT,2023-01-18 12:38:00,CL,"***This elevator is out of service for access and protection for contractors (Mid American Elevators) to label wiring in the power unit.***
+
+
+
+E&EM Urquiola and E&EH Garita taking unit OOS to provide access and protection for contractors (Mid American Elevators) to label wiring in the power unit. WO#4675504 E&EM Urquiola and E&EH Garita provided access and protection to contractors to label wiring in the power unit. Machine BIS at 2:00pm ",
+2023-01-20 01:20:00,EL739,798803,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-01-20 10:00:00,2023-01-20 05:30:00,,Phone,EE-MANOUT,2023-01-20 01:20:00,CL,"***This elevator is out of service for Quarterly PM***
+WO5408079    EAM OUT798803
+1/20/23 0120hrs{Jackson,R}E&EM Shabudin and E&EH Lattanzio taking unit OOS for Quarterly PM Maintenance completed. Machine BIS @05:30 hrs ",
+2023-01-21 00:55:00,EL740,799188,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-01-21 09:00:00,2023-01-21 05:30:00,,Phone,EE-MANOUT,2023-01-21 00:55:00,CL,"
+
+***This elevator is out of service for Monthly PM***
+
+WO 5408080
+
+E&EM Shabudin/ E&EH Stewart here for Monthly PM @ 0030 hrs.
+ PM completed, machine back in service @ 0530 hrs. ",
+2023-01-21 09:03:00,EL741,799266,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-01-21 18:00:00,2023-01-21 12:30:00,,Phone,EE-MANOUT,2023-01-21 09:04:00,CL,"***This elevator is out of service for preventive maintenance***
+
+
+
+E&EM Zimlin and E&EH Alcaraz and TEA Jean Louis taking unit OOS to perform monthly P.M.   WO#5408081 E&EM Zimlin and E&EH Alcaraz and TEA Jean Louis completed monthly P.M.  RTS @12:30 ",
+2023-01-27 16:37:00,EL739,802369,ELE: EL739 - 73  - New Utrecht - Location TBD,,ENT,Closed,Intermed Door Lock Bypass Switch Failure,REPAIR,Repair,2023-01-28 01:00:00,2023-01-27 21:15:00,ST230127.txt - 1810,External Monitoring System,EE-LNOUT,2023-01-27 16:45:00,CL,,
+2023-01-31 08:11:00,EL740,803608,ELE: EL740 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-01-31 16:00:00,2023-01-31 09:25:00,,Phone,EE-MANOUT,2023-01-31 08:11:00,CL,"***This elevator is out of service A&P for Mid American to perform punch list***
+E&EM Bian E&EH Nguyen report OOS A&P for Mid American to perform punch list. E&EM Bian reported punchlist & A&P completed. RTS @0925 ",
+2023-01-31 09:25:00,EL741,803640,ELE: EL741 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-01-31 16:00:00,2023-01-31 09:50:00,,Phone,EE-MANOUT,2023-01-31 09:27:00,CL,"***This elevator is out of service A&P for Mid American to perform punch list***
+E&EM Bian E&EH Nguyen report OOS A&P for Mid American to perform punch list. E&EM Bian reported punch list & A&P is completed. RTS @0950 hrs. ",
+2023-01-31 10:15:00,EL739,803669,ELE: EL739 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-01-31 18:00:00,2023-01-31 12:10:00,,Phone,EE-MANOUT,2023-01-31 10:16:00,CL,"***This elevator is out of service A&P for Mid American to perform punch list***
+
+
+E&EM Bian E&EH Nguyen report OOS A&P for Mid American to perform punch list. E&EM Bian E&EH Nguyen report Mid American completed punch list. BIS. ",
+2023-02-04 14:09:00,EL740,805183,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,,REPAIR,Repair,2023-02-06 23:00:00,2023-02-05 02:40:00,,Phone,EE-MANOUT,2023-02-04 14:11:00,CL,,
+2023-02-11 20:15:00,EL741,808054,ELE: EL741 - 73  - New Utrecht - Location TBD,,BRP,Closed,Entrapment,REPAIR,Repair,2023-02-12 05:00:00,2023-02-12 00:35:00,ST230211.txt - 2980,External Monitoring System,EE-LNOUT,2023-02-11 20:23:00,CL,,
+2023-02-15 11:17:00,EL740,810326,ELE: EL740 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-02-17 16:00:00,2023-02-17 11:40:00,,Phone,EE-MANOUT,2023-02-17 11:17:00,CL,"***This unit was removed from service by E&E personnel to provide A&P for Contractors***
+WO#4934233
+
+
+
+E&EM Figueroa and E&EH Stewart arrived at EL740 to give access and protection to John Picone contractors to perform survey. 
+ E&EM Figueroa and E&EH Stewart arrived at EL740 to give access and protection to John Picone contractors to perform survey. WO#4934233. Access was given, survey completed and machine back in at 11:40am. ",
+2023-02-17 09:25:00,EL739,810282,ELE: EL739 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-02-17 18:00:00,2023-02-17 10:00:00,,Phone,EE-MANOUT,2023-02-17 09:26:00,CL,"***This elevator is out of service for A&P for John Picone contractors to perform survey in motor room and inside shaft way.***
+
+
+
+E&EM Figueroa and E&EH Stewart taking EL738 to give access and protection to John Picone contractors to perform survey in motor room and inside shaft way. wO#4934232. E&EM Figueroa and E&EH Stewart  report:  Access was given to contractors, survey completed and machine back in service at 10:00am. ",
+2023-02-17 11:45:00,EL741,810335,ELE: EL741 - 73  - New Utrecht - Location TBD,,APC,Closed,,PLANNEDWORK,Planned Work,2023-02-17 16:00:00,2023-02-17 12:20:00,,Phone,EE-MANOUT,2023-02-17 11:45:00,CL,"***This unit was removed from service by E&E personnel to perform A&P for Contractors***
+WO4879739
+
+
+E&EM Figueroa and E&EH Stewart arrived at EL741 to give access and protection to John Picone contractors to perform survey. 
+ E&EM Figueroa and E&EH Stewart arrived at EL741 to give access and protection to John Picone contractors to perform survey. WO#4879739. Access was given, survey completed and machine back in service at 12:20. ",
+2023-02-17 23:52:00,EL739,810543,ELE: EL739 - 73  - New Utrecht - Location TBD,,AP,Closed,,PLANNEDWORK,Planned Work,2023-02-18 08:00:00,2023-02-18 01:00:00,,Phone,EE-MANOUT,2023-02-17 23:53:00,CL,"***This elevator is out of service for Access & Protection for EMD***
+WO5857928    EAM OUT810543
+2/17/23 2352hrs {Jackson,R}E&EM Yee & E&EH Tsang taking unit OOS for A&P for EMD for Smoke Detector Inspection E&EM Yee/ E&EH Tsang- EMD completed annual inspection. Cleaned and tested all smoke detectors.BIS@0100 ",
+2023-02-17 23:53:00,EL740,810544,ELE: EL740 - 73  - New Utrecht - Location TBD,,AP,Closed,,PLANNEDWORK,Planned Work,2023-02-18 08:00:00,2023-02-18 04:30:00,,Phone,EE-MANOUT,2023-02-17 23:54:00,CL,"***This elevator is out of service for Access & Protection for EMD***
+WO5857929    EAM OUT810544
+2/17/23 2353hrs {Jackson,R}E&EM Yee & E&EH Tsang taking unit OOS for A&P for EMD for Smoke Detector Inspection E&EM Yee/ E&EH Tsang- EMD completed annual inspection. Cleaned and tested all smoke detectors. BIS@0430 ",
+2023-02-18 01:25:00,EL739,810610,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-02-18 09:00:00,2023-02-18 05:45:00,,Phone,EE-MANOUT,2023-02-18 01:27:00,CL,"***This elevator is out of service for Monthly PM***
+WO5677151     EAM OUT810610
+2/18/23 0125hrs {Jackson,R}E&EM R.Brown and E&EH K.Singh taking unit OOS for Monthly PM PM completed and RTS @5.45 ",
+2023-02-18 07:03:00,EL740,810676,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Jumper Detected between SFC and TCS1,REPAIR,Repair,2023-02-18 16:00:00,2023-02-18 11:20:00,ST230218.txt - 795,External Monitoring System,EE-LNOUT,2023-02-18 07:11:00,CL,,
+2023-02-18 22:08:00,EL740,810896,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Positioning Signal HT1/HT2 Fault,UNDERINVESTG,Under Investigation,2023-02-19 07:00:00,2023-02-19 00:25:00,ST230218.txt - 2733,External Monitoring System,EE-LNOUT,2023-02-18 22:16:00,CL,,
+2023-02-19 00:31:00,EL740,810928,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-02-19 09:00:00,2023-02-19 05:30:00,,Phone,EE-MANOUT,2023-02-19 00:32:00,CL,"
+
+***This elevator is out of service for Monthly PM***
+
+WO 5677152
+
+E&EM Dhuman, E&EM R.Brown and E&EH Lopez here for monthly maintenance
+ PM completed and RTS @5.30 ",
+2023-02-21 01:54:00,EL740,811606,ELE: EL740 - 73  - New Utrecht - Location TBD,,POW,Closed,UPS Battery Failure,REPAIR,Repair,2023-02-21 10:00:00,2023-02-21 02:49:00,ST230221.txt - 334,External Monitoring System,EE-LNOUT,2023-02-21 02:02:00,CL,,
+2023-02-23 00:50:00,EL741,812524,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-02-23 08:53:00,2023-02-23 05:30:00,,Phone,EE-MANOUT,2023-02-23 00:53:00,CL,"***Elevator OOS for Monthly PM ***
+
+
+WO  5672153
+2/23/23 @0050  Hrs (Rosario) E&EM Dhuman  reports taking elevator OOS Monthly PM. 
+
+ PM completed and RTS @5.30 ",
+2023-02-23 10:01:00,EL741,812777,ELE: EL741 - 73  - New Utrecht - Location TBD,,BRP,Closed,Door Closing/ Top Door Lock Failure,UNDERINVESTG,Under Investigation,2023-02-23 19:00:00,2023-02-23 12:40:00,ST230223.txt - 1571,External Monitoring System,EE-LNOUT,2023-02-23 10:09:00,CL,,
+2023-02-23 13:19:00,EL741,812858,ELE: EL741 - 73  - New Utrecht - Location TBD,,BRP,Closed,Front Gate Switch Bypass Switch Failure,UNDERINVESTG,Under Investigation,2023-02-23 22:00:00,2023-02-23 17:30:00,ST230223.txt - 2138,External Monitoring System,EE-LNOUT,2023-02-23 13:27:00,CL,,
+2023-02-24 08:39:00,EL741,813252,ELE: EL741 - 73  - New Utrecht - Location TBD,,POW,Closed,Breaker 7,REPAIR,Repair,2023-02-27 17:00:00,2023-02-25 03:30:00,ST230224.txt - 847,External Monitoring System,EE-LNOUT,2023-02-24 08:47:00,CL,E&EM Yee/ E&EH Tsang- EMD completed annual inspection. Cleaned and tested all smoke detectors. ,
+2023-02-26 04:18:00,EL741,813849,ELE: EL741 - 73  - New Utrecht - Location TBD,,BRP,Closed,Door Closing/ Top Door Lock Failure,REPAIR,Repair,2023-02-28 13:00:00,2023-02-26 12:30:00,ST230226.txt - 406,External Monitoring System,EE-LNOUT,2023-02-26 04:31:00,CL,,
+2023-02-26 09:24:00,EL740,813896,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-02-26 18:00:00,2023-02-26 10:10:00,ST230226.txt - 865,External Monitoring System,EE-LNOUT,2023-02-26 09:32:00,CL,,
+2023-03-02 10:00:00,EL741,815290,ELE: EL741 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-03-02 16:00:00,2023-03-02 13:30:00,,Phone,EE-MANOUT,2023-03-02 10:04:00,CL,"***E&E personnel removed this unit from service to correct defects***
+
+
+
+WO5967348
+E&EM Gassan and TEA's Mendez/ Gonzalez on site at el741 at 0955. Here for excessive outages. Here to Investigate upper and lower landing hoist way doors
+ Upon arrival found upper landing interlock contacts worn out. Replaced with new. Found interlock box misaligned. Adjusted interlock box, and keeper arm. Continue working Adjusted clutch, and release roller position. Adjusted cam on door operator. Found spirator for upper landing hoistway door had too much tension, Adjusted. Test ran elevator. Machine running with no issues. BIS 1330 ",
+2023-03-05 09:24:00,EL740,816244,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,REPAIR,Repair,2023-03-05 18:00:00,2023-03-05 10:35:00,ST230305.txt - 627,External Monitoring System,EE-LNOUT,2023-03-05 09:32:00,CL,,
+2023-03-06 09:00:00,EL156,816526,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-03-06 17:00:00,2023-03-06 13:15:00,,Phone,EE-MANOUT,2023-03-06 09:02:00,CL,"***This elevator is out of service for preventive maintenance***
+
+
+
+E&EM  Gonzalez and Morales taking unit OOS for Bimonthly PM.  WO#5898808 E&EM  Gonzalez and Morales completed Bimonthly PM.  RTS @13:15 ",
+2023-03-08 00:30:00,EL740,817196,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Door Closing/ Top Door Lock Failure,REPAIR,Repair,2023-03-08 09:00:00,2023-03-08 03:00:00,ST230308.txt - 78,External Monitoring System,EE-LNOUT,2023-03-08 00:38:00,CL,,
+2023-03-08 09:27:00,EL739,817368,ELE: EL739 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,REPAIR,Repair,2023-03-08 18:00:00,2023-03-08 12:25:00,ST230308.txt - 1049,External Monitoring System,EE-LNOUT,2023-03-08 09:35:00,CL,,
+2023-03-18 18:00:00,EL741,821308,ELE: EL741 - 73  - New Utrecht - Location TBD,,FR,Cancelled,Front Gate Switch Bypass Switch Failure,UNDERINVESTG,Under Investigation,2023-03-19 03:00:00,,ST230318.txt - 4366,External Monitoring System,EE-LNOUT,2023-03-18 18:08:00,C,As per Galaxy Server Elevator is running ,
+2023-03-22 08:40:00,EL740,823055,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-03-22 17:00:00,2023-03-22 13:35:00,,Phone,EE-MANOUT,2023-03-22 08:44:00,CL,"***This elevator is out of service for preventive maintenance***
+
+
+E&EM Grabovsky & E&EH Nesterets taking machine OOS to perform Quarterly PM. WO#5899059 E&EM Grabovsky & E&EH Nesterets completed Quarterly PM. RTS @13:35 ",
+2023-03-22 09:24:00,EL739,823076,ELE: EL739 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-03-22 18:00:00,2023-03-22 09:55:00,ST230322.txt - 1548,External Monitoring System,EE-LNOUT,2023-03-22 09:32:00,CL,,
+2023-03-24 18:00:00,EL739,824543,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-03-25 02:00:00,2023-03-24 20:00:00,,Phone,EE-MANOUT,2023-03-24 18:00:00,CL,"***This elevator is out of service for preventive maintenance***
+
+
+E&EM Marshall & E&EH Bhagwandeen taking unit OOS for monthly P.M.  WO#5899058 E&EM Marshall & E&EH Bhagwandeen completed monthly P.M. BIS @ 20:00. ",
+2023-03-26 08:28:00,EL741,825136,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-03-26 17:00:00,2023-03-26 13:00:00,,Phone,EE-MANOUT,2023-03-26 08:29:00,CL,"*** This elevator is out of service due to Elevator Quarterly Maintenance*** WO#5899060
+E&EM Philander and E&EM Lee Singh arrived 8:15. Quarterly Maintenance. taking machine out at 8:28
+ E&EM Philander and E&EM Lee Singh completed Quarterly Maintenance. BIS @ 13:00. ",
+2023-03-28 01:34:00,EL740,825885,ELE: EL740 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-03-28 07:00:00,2023-03-28 04:00:00,,Phone,EE-MANOUT,2023-03-28 01:34:00,CL,"***This Elevator is out of service for Repair***
+
+
+E&EM Figueroa and E&EH Stewart arrived at EL740 at 1:30 to troubleshoot fan inside elevator car, WO#4945524. E&EM Figueroa and E&EH Stewart arrived at EL740 at 1:30 to troubleshoot fan inside elevator car, WO#4945524. Upon troubleshooting all fuses found them to be good. Test relay found that to be good. Upon further troubleshooting power supply found to be good but found cable resting on test switch causing it to trip the circuit. Adjusted cable free test switch now fan is working as designed. Machine back in service at 4:00am ",
+2023-03-29 19:40:00,EL740,826728,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Positioning Signal HT1/HT2 Fault,REPAIR,Repair,2023-03-30 04:00:00,2023-03-30 01:25:00,ST230329.txt - 2736,External Monitoring System,EE-LNOUT,2023-03-29 19:48:00,CL,,
+2023-03-31 01:10:00,EL739,827158,ELE: EL739 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-03-31 08:00:00,2023-03-31 01:40:00,,Phone,EE-MANOUT,2023-03-31 01:11:00,CL,"***The elevator is out of service due to UPS doesn't work, needs to be replaced***
+
+
+Work Order5879371
+
+E&EM R.Brown and E&Eh K.Singh arrived at 01:00 to replace UPS. OOS time: 0120 hours
+  OOS time: 0110 hours Replaced UPS, test ran UPS system, machine runs ok with new UPS, RTS @ 01:40. ",
+2023-04-12 15:42:00,EL741,831754,ELE: EL741 - 73  - New Utrecht - Location TBD,,BRP,Closed,Door Closing/ Bottom Door Lock Failure,UNDERINVESTG,Under Investigation,2023-04-13 00:00:00,2023-04-12 17:45:00,ST230412.txt - 2121,External Monitoring System,EE-LNOUT,2023-04-12 15:51:00,CL,,
+2023-04-25 17:33:00,EL740,836677,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-04-26 02:00:00,2023-04-25 20:45:00,,Phone,EE-MANOUT,2023-04-25 17:34:00,CL,"E&EM Marshall E&EH Pierre-Louis arrived at 15:30 for a monthly PM.taking machine out at 17:33
+WO#6121345 Completed PM. Test run. BIS 20:45 ",
+2023-04-27 18:30:00,EL741,837834,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-04-27 23:00:00,2023-04-27 20:30:00,,Phone,EE-MANOUT,2023-04-27 18:32:00,CL,"***Elevator is Out Of Service  for  –  Monthly Maintenance***
+
+WO# 6365670===== EAM OUT# 837834
+
+E&EM Marshall & Lattanzio Arrived @16:15.  Taking Machine Out Of Service @18:30                                              
+
+
+
+
+
+
+ Monthly pm completed RTS @ 2030
+Created: 04/27/2023 20:32
+Marshall, Sean (1240852)
+ ",
+2023-04-28 15:00:00,EL739,838159,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-04-28 23:00:00,2023-04-28 19:40:00,,Phone,EE-MANOUT,2023-04-28 15:00:00,CL,"*** This Elevator is out of service for Revenue Hydraulic Monthly Maintenance ***
+
+
+WO#6121344
+@1500 E&EM Liu76 & E&EH Bhagwandeen arrived at El739 at 2:50pm to perform quarterly P.M. and summer equipment check. @19:40 E&EM Liu76 & E&EH Bhagwandeen updated PM completed. RTS at 19:40 ",
+2023-04-30 04:15:00,EL740,838801,ELE: EL740 - 73  - New Utrecht - Location TBD,,FR,Closed,Top Door Lock Bypass Switch Failure,REPAIR,Repair,2023-04-30 13:00:00,2023-04-30 05:45:00,ST230430.txt - 364,External Monitoring System,EE-LNOUT,2023-04-30 04:24:00,CL,,
+2023-05-01 09:20:00,EL156,839063,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-05-01 17:00:00,2023-05-01 14:20:00,,Phone,EE-MANOUT,2023-05-01 09:20:00,CL,"***This elevator is out of service for Bi-Monthly PM***
+WO6365345    EAM OUT839063
+5/01/23 0920hrs{Jackson,R}E&EM's Ellison & Lazariev taking unit OOS for Bi-Monthly PM E&EMs Ellison and Lazariev   Finished Bi-monthly Pm test ran monitored operations RTS 14:20 ",
+2023-05-11 00:58:00,EL741,854274,ELE: EL741 - 73  - New Utrecht - Location TBD,,BRP,Closed,Front Gate Switch Bypass Switch Failure,REPAIR,Repair,2023-05-11 09:00:00,2023-05-11 02:00:00,ST230511.txt - 237,External Monitoring System,EE-LNOUT,2023-05-11 01:08:00,CL,,
+2023-05-14 09:23:00,EL740,860149,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-05-14 18:00:00,2023-05-14 11:00:00,ST230514.txt - 743,External Monitoring System,EE-LNOUT,2023-05-14 09:33:00,CL,,
+2023-05-14 21:22:00,EL740,860992,ELE: EL740 - 73  - New Utrecht - Location TBD,,UNI,Cancelled,Car Moved Wrong Direction,UNDERINVESTG,Under Investigation,2023-05-15 06:00:00,,ST230514.txt - 2404,External Monitoring System,EE-LNOUT,2023-05-14 21:32:00,C,"As per Lift-Net showing this unit is running, in service ",
+2023-05-15 00:48:00,EL739,861217,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-05-15 07:00:00,2023-05-15 05:30:00,,Phone,EE-MANOUT,2023-05-15 00:48:00,CL,"***This Escalator is out of service for Maintenance***
+
+
+E&EM A. Furmanov and  E&EH T. Prospere arrived at  EL 739 at 0030. Here to perform Monthly PM. WO #6365668 E&EM Furmanov and E&EH Prospere completed monthly maintenance. Machine B.I.S @ 0530. ",
+2023-05-16 00:50:00,EL740,862969,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-05-16 07:53:00,2023-05-16 05:30:00,,Phone,EE-MANOUT,2023-05-16 00:54:00,CL,"***The elevator is out of service due to  Revenue Hydraulic Elevator Monthly Maintenance***
+
+Work Order6365669
+
+E&EM Philander and E&EH Lattanzio arrived at 00:45 hrs for monthly maintenance. OOS time: 0050 hours Maintenance completed. Machine BIS @05:30 hrs ",
+2023-05-20 01:05:00,EL741,870682,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-05-20 09:00:00,2023-05-20 05:30:00,,Phone,EE-MANOUT,2023-05-20 01:08:00,CL,"***This Elevator is out of service for Monthly Maintenance ***
+
+
+E&EM Philander and E&EH Lattanzio arrived at 01:00 hrs. Here on monthly maintenance. 
+WO#6365670 Maintenance completed. Machine BIS@ 05:30 hrs ",
+2023-05-21 09:23:00,EL740,872919,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-05-21 18:00:00,2023-05-21 12:00:00,ST230521.txt - 806,External Monitoring System,EE-LNOUT,2023-05-21 09:33:00,CL,,
+2023-05-24 10:15:00,EL740,874968,ELE: EL740 - 73  - New Utrecht - Location TBD,,AP,Closed,,PLANNEDWORK,Planned Work,2023-05-24 19:00:00,2023-05-24 13:44:00,,Phone,EE-MANOUT,2023-05-24 10:16:00,CL,"***This Elevator is out for A&P for EMD Inspection***
+
+
+WO# Not Provided.
+
+ E&EM Rowe E&EH Gilbert report EMD completed tracing heat sensors. BIS @ 13:44. ",
+2023-05-27 08:57:00,EL741,876267,ELE: EL741 - 73  - New Utrecht - Location TBD,,BRP,Closed,Entrapment,REPAIR,Repair,2023-05-27 17:00:00,2023-05-27 10:10:00,ST230527.txt - 866,External Monitoring System,EE-LNOUT,2023-05-27 09:06:00,CL,,
+2023-05-27 09:23:00,EL740,876281,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-05-27 18:00:00,2023-05-27 10:15:00,ST230527.txt - 921,External Monitoring System,EE-LNOUT,2023-05-27 09:33:00,CL,,
+2023-05-27 10:20:00,EL740,876293,ELE: EL740 - 73  - New Utrecht - Location TBD,,AP,Closed,,PLANNEDWORK,Planned Work,2023-05-27 19:00:00,2023-05-27 12:00:00,,Phone,EE-MANOUT,2023-05-27 10:22:00,CL,"***This elevator is out of service for A&P for EMD to replace heat detector module in elevator pit***
+
+
+E&EM Leesingh and E&EM Rowe arrived @10:15hrs. and taking unit OOS @10:20hrs. to provide A&P for EMD to replace heat detector module in elevator pit.  WO#6594131 EMD replaced heat detector module in elevator pit. RTS @12:00 ",
+2023-05-29 08:25:00,EL739,876845,ELE: EL739 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-05-29 15:00:00,2023-05-29 12:00:00,,Phone,EE-MANOUT,2023-05-29 08:32:00,CL,"E&EMs Grabovsky and Naumov arrived @07:55 to investigate hall call button. OOS@08:25 WO#6623543 Notified S/S of station district Williams . ERTS time changed to 5/31/2023 wrong updated comment. cancelled it Found street level hall call down button broken and communication button shorten. Delivered new buttons from Jay St and replaced. Test run, monitor. BIS @12:00 ",
+2023-06-01 17:09:00,EL740,878254,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Positioning Signal HT1/HT2 Fault,UNDERINVESTG,Under Investigation,2023-06-02 02:00:00,2023-06-01 19:30:00,ST230601.txt - 4291,External Monitoring System,EE-LNOUT,2023-06-01 17:18:00,CL,,
+2023-06-03 09:23:00,EL740,878817,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-06-03 18:00:00,2023-06-03 11:00:00,ST230603.txt - 1206,External Monitoring System,EE-LNOUT,2023-06-03 09:33:00,CL,,
+2023-06-06 16:23:00,EL740,879878,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Positioning Signal HT1/HT2 Fault,REPAIR,Repair,2023-06-07 01:00:00,2023-06-06 19:30:00,ST230606.txt - 3205,External Monitoring System,EE-LNOUT,2023-06-06 16:33:00,CL,,
+2023-06-09 15:35:00,EL740,880966,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-06-10 23:00:00,2023-06-09 20:30:00,,Phone,EE-MANOUT,2023-06-09 15:38:00,CL,"***This Elevator is out of service for Quarterly Maintenance ***
+
+
+E&EM Zimlin and EEH Spinelli arrived at 3:30 pm for quarterly P. M.
+WO#6596473
+
+
+ Pit is full of Oily pig mats. Replaced pig mats. Motor room has a lot of garbage, need truck to remove it.  BIS as of 8:30 pm. ",
+2023-06-10 09:23:00,EL740,881148,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-06-10 18:00:00,2023-06-10 11:10:00,ST230610.txt - 842,External Monitoring System,EE-LNOUT,2023-06-10 09:33:00,CL,,
+2023-06-12 17:30:00,EL741,881875,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-06-13 02:00:00,2023-06-12 20:58:00,,Phone,EE-MANOUT,2023-06-12 17:31:00,CL,"*** This elevator is out of service due to Elevator Quarterly Maintenance *** WO#6596474
+E&EM Guelmami E&EH Pierre-Louis arrived at 16:30 for Quaterly PM. OOS 17:30. E&EM Guelmami E&EH Pierre-Louis updated PM completed. RTS at 20:58 ",
+2023-06-13 10:15:00,EL156,882314,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,,INS,Closed,,INSPECTION,Inspection,2023-06-13 19:00:00,2023-06-13 12:45:00,,Phone,EE-MANOUT,2023-06-13 10:18:00,CL,"***This elevator is out of service for CAT1 Inspection*** 
+
+
+E&EM Stewart, E&EM Rosario, and E&EH Tenecela arrived at 1010hrs. Here for CAT 1 inspection. OOS@1015hrs. wo#6121520 E&EM Stewart, E&EM Rosario, and E&EH Tenecela completed and passed CAT 1 inspection. BIS @1245hrs. ",
+2023-06-14 12:07:00,EL740,883044,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Entrapment,UNDERINVESTG,Under Investigation,2023-06-14 21:00:00,2023-06-14 17:45:00,ST230614.txt - 2272,External Monitoring System,EE-LNOUT,2023-06-14 12:17:00,CL,,
+2023-06-15 18:10:00,EL739,883728,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-06-16 03:00:00,2023-06-15 20:30:00,,Phone,EE-MANOUT,2023-06-15 18:14:00,CL,"***This Elevator is out of service for Monthly Maintenance ***
+
+
+Marshall E&EM arrived at 1510 for a monthly PM. Lattanzio E&EH arrived at 1600 for monthly PM.
+
+WO#6596472 E&EH Lattanzio Reported Maintenance completed.  RTS @20:30 ",
+2023-06-15 21:26:00,EL739,883766,ELE: EL739 - 73  - New Utrecht - Location TBD,,ENT,Closed,Safety Circuit Fuse (FU15),REPAIR,Repair,2023-06-16 06:00:00,2023-06-16 02:30:00,ST230615.txt - 3722,External Monitoring System,EE-LNOUT,2023-06-15 21:36:00,CL,,
+2023-06-17 09:23:00,EL740,884413,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-06-17 18:00:00,2023-06-17 12:05:00,ST230617.txt - 1033,External Monitoring System,EE-LNOUT,2023-06-17 09:33:00,CL,,
+2023-06-24 09:23:00,EL740,887484,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,REPAIR,Repair,2023-06-24 18:00:00,2023-06-24 10:45:00,ST230624.txt - 1100,External Monitoring System,EE-LNOUT,2023-06-24 09:33:00,CL,,
+2023-06-27 18:24:00,EL740,888772,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Positioning Signal HT1/HT2 Fault,UNDERINVESTG,Under Investigation,2023-06-28 03:00:00,2023-06-27 22:00:00,ST230627.txt - 3725,External Monitoring System,EE-LNOUT,2023-06-27 18:34:00,CL,,
+2023-06-29 13:57:00,EL740,889680,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Positioning Signal HT1/HT2 Fault,REPAIR,Repair,2023-06-29 22:00:00,2023-06-29 17:30:00,ST230629.txt - 1998,External Monitoring System,EE-LNOUT,2023-06-29 14:07:00,CL,,
+2023-06-30 12:58:00,EL740,890008,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Entrapment,UNDERINVESTG,Under Investigation,2023-06-30 21:00:00,2023-06-30 14:45:00,ST230630.txt - 1814,External Monitoring System,EE-LNOUT,2023-06-30 13:08:00,CL,,
+2023-06-30 15:16:00,EL740,890027,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,Positioning Signal HT1/HT2 Fault,REPAIR,Repair,2023-07-02 23:00:00,2023-07-01 12:45:00,ST230630.txt - 2177,External Monitoring System,EE-LNOUT,2023-06-30 15:27:00,CL,,
+2023-07-02 09:45:00,EL740,890470,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-07-02 16:00:00,2023-07-02 13:00:00,,Phone,EE-MANOUT,2023-07-02 09:49:00,CL,"***This elevator is out of service for preventive maintenance***
+E&EM Marshall and E&EH Lattanzio arrived at 07:00 hrs for Monthly maintenance. OOS @ 09:45. WO # 6933266. Completed monthly PM test ran and machine running as designed at this point in time. RTS @ 1300 ",
+2023-07-02 17:30:00,EL741,890522,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-07-03 01:00:00,2023-07-02 20:00:00,,Phone,EE-MANOUT,2023-07-02 17:34:00,CL,"***This Elevator is out of service for Monthly Maintenance ***
+
+
+E&EM Marshall and E&EH Lattanzio arrived at 14:00 hrs for monthly maintenance
+WO#6933267 Maintenance completed. Machine BIS@20:00 hrs ",
+2023-07-07 17:13:00,EL739,892496,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-07-08 01:00:00,2023-07-07 21:00:00,,Phone,EE-MANOUT,2023-07-07 17:13:00,CL,"***This elevator is out of service for Quarterly PM***
+WO6933265   EAM OUT892496
+7/07/23 1713hrs{Jackson,R}E&EM Philander and E&EM Lee Singh taking unit OOS for Quarterly PM E&EM Philander and E&EM Lee Singh completed Quarterly PM. RTS @21:00 ",
+2023-07-08 09:22:00,EL740,892740,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-07-08 18:00:00,2023-07-08 11:15:00,ST230708.txt - 1045,External Monitoring System,EE-LNOUT,2023-07-08 09:33:00,CL,,
+2023-07-15 09:22:00,EL740,895625,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-07-15 18:00:00,2023-07-15 11:10:00,ST230715.txt - 993,External Monitoring System,EE-LNOUT,2023-07-15 09:33:00,CL,,
+2023-07-17 09:55:00,EL156,896218,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-07-17 18:00:00,2023-07-17 13:30:00,,Phone,EE-MANOUT,2023-07-17 09:57:00,CL,"***This elevator is out of service for preventive maintenance***
+
+
+
+E&EMs Ellison and Lazariev arrived @09:10hrs. and taking unit OOS @09:55hrs. for Bi-monthly PM. WO#6932942 (EAM) E&EM Ellison: Finished Bi-monthly Pm test ran monitored RTS 13:30 ",
+2023-07-17 19:57:00,EL739,896363,ELE: EL739 - 73  - New Utrecht - Location TBD,,UNI,Cancelled,No Comm/Power,UNDERINVESTG,Under Investigation,2023-07-18 04:00:00,,ST230717.txt - 3122,External Monitoring System,EE-LNOUT,2023-07-17 20:08:00,C,As per Galaxy Client In Service ,
+2023-07-22 09:22:00,EL740,898488,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,UNDERINVESTG,Under Investigation,2023-07-22 18:00:00,2023-07-22 13:10:00,ST230722.txt - 1124,External Monitoring System,EE-LNOUT,2023-07-22 09:33:00,CL,,
+2023-07-23 10:15:00,EL740,898747,ELE: EL740 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-07-23 18:00:00,2023-07-23 11:00:00,,Phone,EE-MANOUT,2023-07-23 10:17:00,CL,"***This elevator is out of service for UPS Battery Replacement***
+WO7484074    EAM OUT898747
+7/23/23 1015hrs {Jackson,R}E&EM Grabovsky & E&EH Nesterets taking unit OOS to Replace UPS Battery ",
+2023-07-25 00:30:00,EL741,899181,ELE: EL741 - 73  - New Utrecht - Location TBD,,INS,Closed,,INSPECTION,Inspection,2023-07-25 07:00:00,2023-07-25 04:15:00,,Phone,EE-MANOUT,2023-07-25 00:30:00,CL,"***This Escalator is out of service for Inspection***
+
+
+E&EM Daly, E&EM Kumar with QEI's and E&EM Sidorin arrived at elevator 741 to perform ASME CAT 1 INSPECTION. Third party inspector Jose Diez on site. WO #6596759
+ Machine passed inspection RTS @0415HRS.  ",
+2023-07-29 09:21:00,EL740,901062,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,UPS Battery Failure,REPAIR,Repair,2023-07-29 18:00:00,2023-07-29 11:00:00,ST230729.txt - 1186,External Monitoring System,EE-LNOUT,2023-07-29 09:32:00,CL,,
+2023-08-02 07:55:00,EL739,902302,ELE: EL739 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-08-02 16:00:00,2023-08-02 12:40:00,,Phone,EE-MANOUT,2023-08-02 07:57:00,CL,"***This elevator is out of service for preventive maintenance***
+
+
+
+E&EM Samuel & E&EH Shiva arrived at 0715hrs. and taking unit OOS @07:55hrs. for monthly PM.  WO#7501791. E&EM Samuel & E&EH Shiva completed monthly PM. RTS @12:40hrs. ",
+2023-08-02 17:30:00,EL740,902532,ELE: EL740 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-08-02 22:00:00,2023-08-02 20:00:00,,Phone,EE-MANOUT,2023-08-02 17:32:00,CL,"***This elevator is out of service for Revenue Hydraulic Elevator Monthly Maintenance*** WO#7501794
+
+E&EM Marshall E&EH Pierre-Louis arrived at 15:00 for a monthly PM.
+
+
+Machine OOS @17:30 E&EM Marshall E&EH Pierre-Louis completed monthly PM. 
+RTS @20:00 ",
+2023-08-02 23:35:00,EL741,902604,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-08-03 07:00:00,2023-08-03 03:40:00,,Phone,EE-MANOUT,2023-08-02 23:35:00,CL,"***This Elevator is out of service for Maintenance***
+
+
+
+
+E&EM Qazi/E&EM Khan arrived @23::10, here on performing monthly P.M assignment WO #7501797 Completed Monthly PM and checklist. Access Mide on machine does not work,key cylinder inside of car is not functioning. BIS 03:40. ",
+2023-08-08 08:15:00,EL739,904564,ELE: EL739 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-08-08 17:00:00,2023-08-08 10:15:00,,Phone,EE-MANOUT,2023-08-08 08:16:00,CL,,
+2023-08-17 00:12:00,EL739,908335,ELE: EL739 - 73  - New Utrecht - Location TBD,,INS,Closed,,INSPECTION,Inspection,2023-08-17 08:00:00,2023-08-17 04:15:00,,Phone,EE-MANOUT,2023-08-17 00:12:00,CL,"***This Elevator is out for Cat 1 inspection ***
+
+EEM Daly and EEM Walsh are here with 3rd party Camacho and are removing from service el739 at 12:10 am for cat 1 inspection.  
+
+ 6596757 El739 passed cat 1 inspection. Returned to service at 04:15 am ",
+2023-08-18 00:13:00,EL740,908770,ELE: EL740 - 73  - New Utrecht - Location TBD,,INS,Closed,,INSPECTION,Inspection,2023-08-18 08:00:00,2023-08-18 04:15:00,,Phone,EE-MANOUT,2023-08-18 00:13:00,CL,"***This elevator is out of service for ASME CAT 1 Inspection***
+WO6596758   EAM OUT908770
+8/18/23 0013hrs {Jackson,R}E&EM's Daly and Walsh taking unit OOS for CAT 1 Inspection with Third party Inspector Camacho on site EL740 passed cat 1 inspection.   Returned to service at 04:15 am ",
+2023-08-21 03:05:00,EL740,909578,ELE: EL740 - 73  - New Utrecht - Location TBD,,BRP,Closed,,REPAIR,Repair,2023-08-25 23:00:00,2023-08-23 19:00:00,,Phone,EE-MANOUT,2023-08-21 03:07:00,CL,,
+2023-08-29 23:55:00,EL740,913083,ELE: EL740 - 73  - New Utrecht - Location TBD,,MRP,Closed,,PLANNEDWORK,Planned Work,2023-08-30 07:00:00,2023-08-30 00:30:00,,Phone,EE-MANOUT,2023-08-29 23:57:00,CL,"***This elevator is out of service to Clean Pit***
+E&EM R.Brown and E&EH J.Liang taking unit OOS to Clean the Pit of Oil.
+
+ ",
+2023-09-02 07:57:00,EL741,914454,ELE: EL741 - 73  - New Utrecht - Location TBD,This elevator was removed from passenger service by E&E personnel to install insulation rubber pads for both pistons.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-09-02 23:00:00,2023-09-02 18:35:00,,Phone,EE-MANOUT,2023-09-02 07:59:00,CL,,
+2023-09-05 01:51:00,EL741,915263,ELE: EL741 - 73  - New Utrecht - Location TBD,This elevator is out of service due to LIFTNET fault: UPS Battery Failure,BRP,Closed,UPS Battery Failure,REPAIR,Repair,2023-09-05 10:00:00,2023-09-05 02:45:00,ST230905.txt - 493,External Monitoring System,EE-LNOUT,2023-09-05 02:02:00,CL,,
+2023-09-05 11:02:00,EL739,915439,ELE: EL739 - 73  - New Utrecht - Location TBD,This Elevator is out of service for A&P for Print verification,APC,Closed,,PLANNEDWORK,Planned Work,2023-09-05 20:00:00,2023-09-05 11:15:00,,Phone,EE-MANOUT,2023-09-05 11:03:00,CL,"Wo#7788741
+E&EM Figueroa and E&EH C Jose arrived @El739 at 08:30am for A&P for  John Picone contractor and  C&D stations. Taken out of service at 11:02 E&EM Figueroa and E&EH C Jose arrived @El739 at 08:30am for A&P for John Picone contractor and  C&D stations. Verification of the As-built drawings.complete for El739  R.T.S @11:15 ",
+2023-09-05 11:50:00,EL740,915446,ELE: EL740 - 73  - New Utrecht - Location TBD,This Elevator is out of service for A&P for Print verification,APC,Closed,,PLANNEDWORK,Planned Work,2023-09-05 20:00:00,2023-09-05 12:05:00,,Phone,EE-MANOUT,2023-09-05 11:52:00,CL,"W0#7788743 
+
+E&EM Figueroa and E&EH C Jose arrived @El740at 11:25am for A&P for John Picone contractor and  C&D stations. Taken O.O.S @11:50 ",
+2023-09-05 12:10:00,EL741,915449,ELE: EL741 - 73  - New Utrecht - Location TBD,This elevator is out of service for Verification of the As-built drawings.,APC,Closed,,PLANNEDWORK,Planned Work,2023-09-05 21:00:00,2023-09-05 12:20:00,,Phone,EE-MANOUT,2023-09-05 12:11:00,CL,,
+2023-09-12 12:56:00,EL739,918347,ELE: EL739 - 73  - New Utrecht - Location TBD,S/A Cheng #147466 reported the Street landing hall-call button is not taking calls. ,BRP,Closed,,REPAIR,Repair,2023-09-12 21:00:00,2023-09-12 17:30:00,,Phone,EE-MANOUT,2023-09-12 12:57:00,CL,,
+2023-09-14 10:44:00,EL740,919438,ELE: EL740 - 73  - New Utrecht - Location TBD,S/A Cheng #147466 reported the platform landing hall call button is not working. ,BRP,Closed,,REPAIR,Repair,2023-09-14 19:00:00,2023-09-14 16:30:00,,Phone,EE-MANOUT,2023-09-14 10:46:00,CL,,
+2023-09-18 23:55:00,EL741,921214,ELE: EL741 - 73  - New Utrecht - Location TBD,This elevator is out of service for Quarterly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-09-19 08:00:00,2023-09-19 04:30:00,,Phone,EE-MANOUT,2023-09-18 23:55:00,CL,"WO7751437     EAMOUT921214
+9/18/23 2355 hrs {Noel, N}E&EM Philander and E&EH Lattanzio taking unit OOS for Quarterly PM Maintenance completed. Machine BIS @04:30 hrs ",
+2023-09-19 08:00:00,EL740,921445,ELE: EL740 - 73  - New Utrecht - Location TBD,E&E personnel removed this unit from service to correct defects.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-09-19 15:00:00,2023-09-19 08:35:00,,Phone,EE-MANOUT,2023-09-19 08:01:00,CL,,
+2023-09-21 23:00:00,EL156,923444,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for Bi-Monthly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-09-22 07:00:00,2023-09-22 04:30:00,,Phone,EE-MANOUT,2023-09-21 23:05:00,CL,"WO7751155   EAM OUT923444
+9/21/23 2300hrs {Jackson,R}E&EM Santiago and Tejsingh and E&EH Clarke taking unit OOS for Bi-Monthly PM PM Complete RTS @0430HRS ",
+2023-09-26 08:45:00,EL740,924804,ELE: EL740 - 73  - New Utrecht - Location TBD,E&E personnel removed this unit from service to correct defects.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-09-26 15:00:00,2023-09-26 10:30:00,,Phone,EE-MANOUT,2023-09-26 08:45:00,CL,,
+2023-09-26 23:30:00,EL740,925168,ELE: EL740 - 73  - New Utrecht - Location TBD,This elevator is out of service for Quarterly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-09-27 07:00:00,2023-09-27 04:45:00,,Phone,EE-MANOUT,2023-09-26 23:33:00,CL,"WO7751436        EAMOUT925168
+9/26/23 2330 hrs {Noel,N}E&EM Brown and E&EH Bao taking unit OOS for Quarterly PM Completed quarterly maintenance, test ran machine, RTS @ 04:45. ",
+2023-09-27 00:10:00,EL739,925209,ELE: EL739 - 73  - New Utrecht - Location TBD,This elevator is out of service for Monthly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-09-27 08:00:00,2023-09-27 04:15:00,,Phone,EE-MANOUT,2023-09-27 00:56:00,CL,"WO7751435         EAMOUT925209
+9/27/23 0010 hrs {Noel,N}E&EM's Furmanov and Sidorin taking unit OOS for Monthly PM EEM Furmanov A. & Sidorin V. Did successfully monthly PM. BIS at 04:15 . ",
+2023-09-29 08:50:00,EL740,926356,ELE: EL740 - 73  - New Utrecht - Location TBD,This Elevator is out of service for Drift Test,MRP,Closed,,REPAIR,Repair,2023-09-29 23:00:00,2023-09-29 11:35:00,,Phone,EE-MANOUT,2023-09-29 08:52:00,CL,,
+2023-10-04 08:50:00,EL739,928138,ELE: EL739 - 73  - New Utrecht - Location TBD,E&E personnel removed this unit from service to correct defects.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-10-04 15:00:00,2023-10-04 12:30:00,,Phone,EE-MANOUT,2023-10-04 08:55:00,CL,,
+2023-10-16 07:27:00,EL739,932501,ELE: EL739 - 73  - New Utrecht - Location TBD, This Elevator is out of service for measurement motor pulley.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-10-16 17:00:00,2023-10-16 08:05:00,,Phone,EE-MANOUT,2023-10-16 07:28:00,CL,,
+2023-10-16 10:50:00,EL739,932542,ELE: EL739 - 73  - New Utrecht - Location TBD,This elevator is out of service for A&P for EMD to check internet connection and communications,AP,Closed,,PLANNEDWORK,Planned Work,2023-10-16 19:00:00,2023-10-16 11:22:00,,Phone,EE-MANOUT,2023-10-16 10:52:00,CL,E&EM Lutsenko and TEA Padilla taking unit OOS to provide A&P for EMD to check internet communications. WO not provided E&EM Lutsenko and TEA Padilla completed A&P for EMD to check internet communications. RTS @11:22 ,
+2023-10-16 23:45:00,EL739,932694,ELE: EL739 - 73  - New Utrecht - Location TBD,This elevator is out of service for Quarterly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-10-17 07:00:00,2023-10-17 04:30:00,,Phone,EE-MANOUT,2023-10-16 23:51:00,CL,E&EM George & E&EH Bhagwandeen arrived at El739 at 11:40pm for quarterly P.M. taking unit OOS at 11:45pm. WO8021322 Pm completed test ran machine BIS @04:30 ,
+2023-10-17 10:30:00,EL739,932951,ELE: EL739 - 73  - New Utrecht - Location TBD,This elevator is out of service for pulley replacement,MRP,Closed,,PLANNEDWORK,Planned Work,2023-10-17 15:00:00,2023-10-17 13:30:00,,Phone,EE-MANOUT,2023-10-17 10:32:00,CL,,
+2023-10-17 23:45:00,EL740,933199,ELE: EL740 - 73  - New Utrecht - Location TBD,This Elevator is out of service for Monthly Maintenance.,PM,Closed,,MAINTENANCE,Maintenance,2023-10-18 08:00:00,2023-10-18 04:15:00,,Phone,EE-MANOUT,2023-10-17 23:46:00,CL,"EEM Furmanov A. & Sidorin V. arrived ar 23:30at El 740 for monthly maintenance. WO#8021323 EEM Furmanov A. & Sidorin V. did successfully monthly maintenance EL740 . Test run BIS at 04:15
+ ",
+2023-10-18 23:40:00,EL741,933767,ELE: EL741 - 73  - New Utrecht - Location TBD,This elevator is out of service for Monthly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-10-19 08:00:00,2023-10-19 04:15:00,,Phone,EE-MANOUT,2023-10-18 23:41:00,CL,"WO8021324    EAM OUT933767
+10/18/23 2340hrs {Jackson,R}E&EM's Furmanov & Sidorin taking unit OOS for Monthly PM E&EMs Furmanov A. &  Sidorin V. did successfully monthly maintenance .Test , Run , BIS at 04:15 ",
+2023-10-26 07:35:00,EL156,936422,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service to inspect guide shoes and rails,MRP,Closed,,PLANNEDWORK,Planned Work,2023-10-26 15:00:00,2023-10-26 12:00:00,,Phone,EE-MANOUT,2023-10-26 07:37:00,CL,,
+2023-11-03 23:15:00,EL156,939605,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for Bi-Monthly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-11-04 07:00:00,2023-11-04 04:30:00,,Phone,EE-MANOUT,2023-11-03 23:15:00,CL,E&EM Ricart E&EH Perez TEA Ramirez arrived at 2300 WO#8275403 PM Complete RTS @0430HRS ,
+2023-11-12 14:57:00,EL740,942567,ELE: EL740 - 73  - New Utrecht - Location TBD,This Elevator is out of service due to LIFTNET event: UPS Fuse is blown (FU9) or UPS OFF,PNM,Closed,UPS Fuse is blown (FU9) or UPS OFF,CONEDPOWERISS,Con Edison Power Issue,2023-11-12 23:00:00,2023-11-12 17:20:00,ST231112.txt - 1791,External Monitoring System,EE-LNOUT,2023-11-12 15:10:00,CL,,
+2023-11-16 23:55:00,EL739,944711,ELE: EL739 - 73  - New Utrecht - Location TBD,This elevator is out of service for Monthly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-11-17 08:00:00,2023-11-17 04:30:00,,Phone,EE-MANOUT,2023-11-16 23:55:00,CL,"E&EM Figueroa and E&EH Stewart arrived at EL739 23:45 for monthly maintenance, WO#8275717 PM Complete RTS @0430HRS ",
+2023-11-19 23:30:00,EL740,945641,ELE: EL740 - 73  - New Utrecht - Location TBD,This elevator is out of service for Monthly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-11-20 07:00:00,2023-11-20 04:30:00,,Phone,EE-MANOUT,2023-11-19 23:33:00,CL,E&EM Furmanov and E&EH Xie Liang arrived at 2330 for Monthly PM. Machine out of service @ 2330 hrs WO#8275718 E&EM Furmanov and E&EH Xie Liang did successfully Monthly maintenance El740 . BIS at 04:30 ,
+2023-11-21 00:10:00,EL741,946059,ELE: EL741 - 73  - New Utrecht - Location TBD,"****This Elevator is Out for Monthly Preventative Maintenance**** 
+
+WO8275719",PM,Closed,,MAINTENANCE,Maintenance,2023-11-21 06:00:00,2023-11-21 04:30:00,,Phone,EE-MANOUT,2023-11-21 00:12:00,CL,E&EM Furmanov and E&EH Xie Liang did successfully Monthly maintenance El741 . PM completed . BIS at 04:30 E&EM Furmanov and E&EH Xie Liang arrived at 2330 for Monthly PM ,
+2023-11-22 14:16:00,EL741,946821,ELE: EL741 - 73  - New Utrecht - Location TBD,"This escalator is out of service due to LIFTNET indicated fault:
+Entrapment",BRP,Closed,Entrapment,REPAIR,Repair,2023-11-23 06:00:00,2023-11-22 19:00:00,ST231122.txt - 2528,External Monitoring System,EE-LNOUT,2023-11-22 14:29:00,CL,,
+2023-11-30 08:00:00,EL156,948986,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service as reported by MS1 Allen,BRP,Closed,,REPAIR,Repair,2023-11-30 16:00:00,2023-11-30 10:45:00,,Phone,EE-MANOUT,2023-11-30 09:23:00,CL,,
+2023-12-05 16:15:00,EL739,950842,ELE: EL739 - 73  - New Utrecht - Location TBD,This escalator is out of service for repair Loose Handrail inside car,MRP,Closed,,PLANNEDWORK,Planned Work,2023-12-05 23:00:00,2023-12-05 17:15:00,,Phone,EE-MANOUT,2023-12-05 16:17:00,CL,"WO# 8607328
+
+E&EMs Zilberman, Khan arrived at el739 @15:55 for defect: loose hand rail in car. taking machine OOS at 16:10 ",
+2023-12-08 00:30:00,EL156,951866,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for ASME CAT1 + CAT5 Inspection,INS,Closed,,INSPECTION,Inspection,2023-12-08 08:00:00,2023-12-08 04:02:00,,Phone,EE-MANOUT,2023-12-08 00:31:00,CL,E&EMs Daly/Haupt/Vicente arrived @ 0010 hrs to perform ASME CAT1 + CAT5 Inspection. Machine OOS @ 0030 hrs. WO#8021616 Third party inspector Diez on site. Completed CAT1 + CAT5 inspection. Machine failed inspection due top of car stop switch and escape hatch switch inoperative. Notified MS1 DeMarco. Pulled main line LOTO signs posted for 12/10/23. This outage will be closed @ 0402 hrs and new outage with IRP out of service code will be opened @ 0403 hrs ,
+2023-12-08 04:03:00,EL156,951956,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for Repair,IRP,Closed,,REPAIR,Repair,2023-12-11 22:00:00,2023-12-10 12:50:00,,Phone,EE-MANOUT,2023-12-08 04:03:00,CL,,
+2023-12-13 08:50:00,EL156,954239,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service  to investigate top of car stop switch and escape hatch switch.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-12-13 15:00:00,2023-12-13 11:05:00,,Phone,EE-MANOUT,2023-12-13 08:58:00,CL,,
+2023-12-16 08:32:00,EL740,956083,ELE: EL740 - 73  - New Utrecht - Location TBD,This elevator is out of service due to LIFTNET event:  UPS Fuse is blown (FU9) or UPS OFF,BRP,Closed,UPS Fuse is blown (FU9) or UPS OFF,UNDERINVESTG,Under Investigation,2023-12-16 17:00:00,2023-12-16 09:40:00,ST231216.txt - 905,External Monitoring System,EE-LNOUT,2023-12-16 08:34:00,CL,,
+2023-12-19 23:35:00,EL739,957454,ELE: EL739 - 73  - New Utrecht - Location TBD,This elevator was out of service for monthly maintenance.,PM,Closed,,MAINTENANCE,Maintenance,2023-12-20 07:00:00,2023-12-20 04:30:00,,Phone,EE-MANOUT,2023-12-19 23:41:00,CL,E&EM Sidorin and E&EH Lopez here for monthly maintenance. Arrived at 2330. OOS @ 2335. WO# 8506168 Monthly maintenance completed. Test ran. Monitored operation. RTS @ 0430 ,
+2023-12-20 23:35:00,EL740,958086,ELE: EL740 - 73  - New Utrecht - Location TBD,This elevator is out of service for Quarterly PM,PM,Closed,,MAINTENANCE,Maintenance,2023-12-21 07:00:00,2023-12-21 04:30:00,,Phone,EE-MANOUT,2023-12-20 23:36:00,CL,E&EM George & E&EH Bhagwandeen arrived at el740 at 23:30 for quarterly P.M. taking machine OOS at 23:35.WO#8506169 P.M. completed test ran monitored machine BIS at 4:30am. ,
+2023-12-22 00:44:00,EL156,958719,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This Elevator is out of service as per DS Pringle,BRP,Closed,,UNDERINVESTG,Under Investigation,2023-12-22 22:00:00,2023-12-22 18:40:00,,Phone,EE-MANOUT,2023-12-22 00:45:00,CL,,
+2023-12-22 18:41:00,EL156,959001,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This Elevator is out of service as per DS Pringle,BRP,Closed,,REPAIR,Repair,2023-12-23 22:00:00,2023-12-23 04:00:00,,Phone,EE-MANOUT,2023-12-22 23:27:00,CL,"Work Order created for Equipment Outage (958719).  Reported Out of Service on 12-22-2023 00:44. Pringle, John, B was notified on 12-22-2023 00:45.
+
+E&EM Morales and Crawford will respond.
+
+
+THIS OUTAGE WAS CLOSED IN ERROR AND REOPEN 1MIN AFTER
+
+ WO8728880    EAM OUT958718 E&EM Dennison and E&EH Martinez arrived at EL156 @ 02:30am for shutdown. Car at lower landing doors closed. Checked controller and print. Troubleshoot using print and found an open on escape hatch in safety circuit. Jump escape hatch on controller to gain access to top of car. Found bolt holding escape hatch was out of place. Secure bolt and confirmed escape hatch switch works. test ran car several time. RTS 4am ",
+2023-12-25 09:15:00,EL156,959797,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for adjusting elevator speed.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-12-25 15:00:00,2023-12-25 13:00:00,,Phone,EE-MANOUT,2023-12-25 09:18:00,CL,,
+2023-12-26 00:05:00,EL741,959901,ELE: EL741 - 73  - New Utrecht - Location TBD,,PM,Closed,,MAINTENANCE,Maintenance,2023-12-26 08:00:00,2023-12-26 04:30:00,,Phone,EE-MANOUT,2023-12-26 00:12:00,CL,E&EM Sidorin and E&EH Lopez here for quarterly maintenance. Arrived at 0000. OOS @ 0005. WO#8506170 Quarterly maintenance completed. Test ran. Monitored operation. RTS@ 0430 ,
+2023-12-26 07:05:00,EL156,960046,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for LO/TO training,AP,Closed,,PLANNEDWORK,Planned Work,2023-12-26 16:00:00,2023-12-26 08:00:00,,Phone,EE-MANOUT,2023-12-26 07:07:00,CL,E&E personnel taking unit out of service for LO/TO training  LO/TO training completed. RTS @08:00hrs. ,
+2023-12-26 15:45:00,EL156,960182,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for LO/TO training,AP,Closed,,PLANNEDWORK,Planned Work,2023-12-26 23:00:00,2023-12-26 15:46:00,,Phone,EE-MANOUT,2023-12-26 15:49:00,CL,E&EM Farrier called control to take machine OOS for LO/TO Training this training did not take machine out as per MS1 Nevers. closed outage 1 minute after taking out time ,
+2023-12-27 23:05:00,EL156,960709,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator out of service for LOTO Training,AP,Closed,,PLANNEDWORK,Planned Work,2023-12-28 07:00:00,2023-12-28 01:25:00,,Phone,EE-MANOUT,2023-12-27 23:06:00,CL,"D/S Pringle, MS1 Paidama and (E&EM Ricart, C. Perez, Dennison, Martinez, Cabrera, Dalakiani, J. Soto, Hinds, Tejsingh, Gonzalez, Louis, Bacchus, Figaro, Green, Whitaker, Sampson, Bonilla, Titus) took this elevator out of service for LOTO Training LOTO Training completed; RTS @ 0125 hrs ",
+2023-12-28 01:28:00,EL156,960814,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for Top Left Guide Shoe Replacement,MRP,Closed,,PLANNEDWORK,Planned Work,2023-12-28 10:00:00,2023-12-28 04:30:00,,Phone,EE-MANOUT,2023-12-28 01:28:00,CL,,
+2023-12-28 11:25:00,EL156,960973,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This elevator is out of service for CAT1 re-inspection,INS,Closed,,INSPECTION,Inspection,2023-12-28 20:00:00,2023-12-28 13:00:00,,Phone,EE-MANOUT,2023-12-28 11:28:00,CL,,
+2023-12-30 14:30:00,EL156,961579,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD, This elevator is out of service for having problem with top of car stop switch and escape hatch.,MRP,Closed,,PLANNEDWORK,Planned Work,2023-12-30 22:00:00,2023-12-30 17:10:00,,Phone,EE-MANOUT,2023-12-30 16:43:00,CL,,
+2023-12-31 07:09:00,EL156,961707,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,E&EH Humphrey reported this elevator out of service. ,BRP,Closed,,REPAIR,Repair,2023-12-31 16:00:00,2023-12-31 08:30:00,,Phone,EE-MANOUT,2023-12-31 07:09:00,CL,,
+2023-12-31 20:15:00,EL156,961797,ELE: EL156 - TBD - Dyckman St Quarters - Location TBD,This Elevator is out of service to replace hanger rollers bottom door hatch door,MRP,Closed,,PLANNEDWORK,Planned Work,2024-01-02 05:00:00,2024-01-01 05:05:00,,Phone,EE-MANOUT,2023-12-31 20:17:00,CL,,
