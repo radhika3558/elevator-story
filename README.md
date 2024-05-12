@@ -7,7 +7,7 @@ Our methodology is described in at the bottom of the [article]. (link)
 
 Data that we collected and analyzed is in the `data` folders inside each of the folders. 
 
-Jupyter notebooks used for data preprocessing and analysis are available in the `notebook` of each folder. Descriptions for each notebook are outlined in the [Running the notebooks](#running-the-notebooks).
+Jupyter notebooks used for data preprocessing and analysis are available in the `notebook` of each folder. Descriptions for each notebook are outlined in the Running the notebooks sections.
 
 Our analysis consists of two parts. We analyzed: 
 * Publicly available [MTA elevator availability data](https://metrics.mta.info/?subway/elevatorescalatoravailability) &rarr; [Part I: Regression modeling for elevator outages](#part-1-regression-modeling-for-elevator-outages)  
@@ -42,6 +42,8 @@ Here's an explanation of some of the more important files.
 |:----|:----|
 |`data/input/2023.csv`| Maintenance records of MTA elevators and escalators in 2023 received via our FOIL request |
 |`data/input/subway_station.csv`| MTA Subway stations from [NTS Open Data](https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data) |
+|`data/intermediary/2023_subway_censusvar`| This is the final file after cleaning and joining with census variable. It is ready for anaylsis. |
+|`data/output/2023_subway_downtime-external.csv`| This is the file with 
 
 ### Running the notebooks
 
