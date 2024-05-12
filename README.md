@@ -48,6 +48,7 @@ Here's an explanation of some of the more important files.
 ### Running the notebooks
 Notebooks are numbered in order of our methodology but it is not required to be run subsequently. Here are the required data to run each notebooks:
 |notebook|required data|
+|:----|:----|
 |`1-cleaning-geocode.ipynb`| 1. `data/input/2023.csv` 2. `data/input/subway_station.csv`|
 |`2-merge-with-census.ipynb`| `data/intermediary/2023_subway_censusgeo.csv`|
 |`3-t-test.ipynb`|`2023_subway_censusvar.csv`|
