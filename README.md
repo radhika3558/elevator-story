@@ -43,7 +43,7 @@ Here's an explanation of some of the more important files.
 |`data/input/2023.csv`| Maintenance records of MTA elevators and escalators in 2023 received via our FOIL request |
 |`data/input/subway_station.csv`| MTA Subway stations from [NTS Open Data](https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data) |
 |`data/intermediary/2023_subway_censusvar`| This is the final file after cleaning and joining with census variable. It is ready for anaylsis. |
-|`data/output/2023_subway_downtime-external.csv`| This is the file with 
+|`data/output/2023_subway_downtime-external.csv`| This is the file with calculated downtime and categorized elevators column. |
 
 ### Running the notebooks
 
