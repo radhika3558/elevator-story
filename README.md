@@ -36,7 +36,14 @@ The `elevator outage` folder contains `notebook.ipynb`, which uses data from the
 
 ## Part 2: T-test for elevator downtime
 
-```
+### Data
+Here's an explanation of some of the more important files.
+|file |description|
+|:----|:----|
+|`data/input/2023.csv`| Maintenance records of MTA elevators and escalators in 2023 received via our FOIL request |
+|`data/input/subway_station.csv`| MTA Subway stations from [NTS Open Data](https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data) |
+
+### Running the notebooks
 
 
 
