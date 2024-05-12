@@ -43,10 +43,14 @@ Here's an explanation of some of the more important files.
 |`data/input/2023.csv`| Maintenance records of MTA elevators and escalators in 2023 received via our FOIL request |
 |`data/input/subway_station.csv`| MTA Subway stations from [NTS Open Data](https://data.ny.gov/Transportation/MTA-Subway-Stations/39hk-dx4f/about_data) |
 |`data/intermediary/2023_subway_censusvar`| This is the final file after cleaning and joining with census variable. It is ready for anaylsis. |
-|`data/output/2023_subway_downtime-external.csv`| This is the file with calculated downtime and categorized elevators column. |
+|`data/output/2023_subway_downtime-external.csv`| This is the file with calculated downtime and categorized elevator column. |
 
 ### Running the notebooks
-
+Notebooks are numbered in order of our methodology but it is not required to be run subsequently. Here are the required data to run each notebooks:
+|notebook|required data|
+|`1-cleaning-geocode.ipynb`| 1. `data/input/2023.csv` 2. `data/input/subway_station.csv`|
+|`2-merge-with-census.ipynb`| `data/intermediary/2023_subway_censusgeo.csv`|
+|`3-t-test.ipynb`|`2023_subway_censusvar.csv`|
 
 
 
