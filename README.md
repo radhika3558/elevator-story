@@ -3,7 +3,7 @@
 
 This repository contains code to reproduce the findings featured in our story on subway elevator outages in New York City.
 
-Our methodology is described in at the bottom of the [article]. (link)
+Our methodology is described [here](https://docs.google.com/document/d/1kDmPBVN71TS4OUZXPWx4_zDloRyGycJjun3_rxSLf44/edit).
 
 Data that we collected and analyzed is in the `data` folders inside each of the folders. 
 
