@@ -51,7 +51,7 @@ Notebooks are numbered in order of our methodology but it is not required to be 
 |:----|:----|
 |`1-cleaning-geocode.ipynb`| <ol><li>`data/input/2023.csv`</li><li>`data/input/subway_station.csv`</li></ol>|
 |`2-merge-with-census.ipynb`| `data/intermediary/2023_subway_censusgeo.csv`|
-|`3-t-test.ipynb`|`2023_subway_censusvar.csv`|
-
+|`3-t-test.ipynb`|`data/intermediary/2023_subway_censusvar.csv`|
+|`4-viz.ipynb`|`data/output/2023_subway_downtime-external.csv`|
 
 
